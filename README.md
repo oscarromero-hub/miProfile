@@ -3,7 +3,7 @@
 I'm a passionate for coding & focused on creating modern and efficient web applications.  
 I love exploring new technologies and building full-stack solutions.
 
-### 🛠️ Technologies & Tools I'm working with:
+### 🛠️ Technologies & Tools I'm working:
 - ⚛️ React & JavaScript
 - 🌐 Node.js + Express
 - 🗄️ MySQL & PostgreSQL
